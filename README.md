@@ -13,7 +13,8 @@ It automatically edits the apt.dat file and batch adds/removes `1302 flatten 1` 
 ### Important Notes
 - This tool only modifies the apt.dat file;
 - Please back up your original X-Plane 12 files before using;
-- Current version is CLI-based, supporting both Simplified Chinese and English.
+- Current version is CLI-based, supporting both Simplified Chinese and English;
+- Fix terrain issues caused by plugins.
 
 ## Feedback & Suggestions
 To request features or report bugs, please leave a message on the GitHub project page:  
