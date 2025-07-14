@@ -8,7 +8,7 @@ It automatically edits the apt.dat file and batch adds/removes `1302 flatten 1` 
 ### Use Cases
 - Fix default airport terrain bugs in X-Plane 12;
 - Quickly manage terrain flattening status for airports in regions such as China and the USA;
-- Provide personalized terrain adjustment for custom airport developers.
+- The simplest way to use, prepared for users who do not understand professional terrain modification tools.
 
 ### Important Notes
 - This tool only modifies the apt.dat file;
