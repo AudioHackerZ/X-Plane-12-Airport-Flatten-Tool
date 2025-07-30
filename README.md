@@ -32,10 +32,7 @@
 ---
 
 ## 💬 意见反馈  
-如需提出新功能建议或报告 Bug，欢迎在 GitHub 项目页留言：  
-[https://github.com/your-username/your-project](https://github.com/your-username/your-project)
-
-或前往 X-Plane.org 论坛参与讨论。
+如需提出新功能建议或报告 Bug，欢迎在 GitHub 项目页留言或前往 X-Plane.org 论坛参与讨论。
 
 ---
 
@@ -74,10 +71,7 @@ It automatically analyzes and edits the `apt.dat` file, batch adding or removing
 ---
 
 ## 💬 Feedback & Suggestions  
-To suggest features or report bugs, feel free to leave a message on the GitHub project page:  
-[https://github.com/your-username/your-project](https://github.com/your-username/your-project)
-
-Or join the discussion on the X-Plane.org Forum.
+To suggest features or report bugs, feel free to leave a message on the GitHub project page or join the discussion on the X-Plane.org Forum.
 
 ---
 
