@@ -51,6 +51,13 @@ Beta_v0.1.7:
 
 # X-Plane 12 Airport Terrain Flattening Tool (Simple Flatten 1)
 
+## Update
+
+Beta v0.1.7 updates include:
+- Optimized user prompts
+- Fixed program crash when users select a single airport with a number
+- Updated English version
+
 ## 🛫 Introduction  
 This tool is specially designed for X-Plane 12 users to address:
 
@@ -83,7 +90,5 @@ It automatically analyzes and edits the `apt.dat` file, batch adding or removing
 To suggest features or report bugs, feel free to leave a message on the GitHub project page or join the discussion on the https://forums.x-plane.org Forum
 
 ---
-
-> ⚠️ *This English README is a preliminary version. The full English documentation will be available in a future update. Please refer to the Chinese version for the most complete and up-to-date information.*
 
 --Starlux 531--
